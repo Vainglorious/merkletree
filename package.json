@@ -1,0 +1,24 @@
+{
+  "name": "merkletreeroot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "merkle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vainglorious/merkletree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vainglorious/merkletree/issues"
+  },
+  "homepage": "https://github.com/Vainglorious/merkletree#readme",
+  "dependencies": {
+    "keccak256": "^1.0.3",
+    "merkletreejs": "^0.2.24"
+  }
+}
